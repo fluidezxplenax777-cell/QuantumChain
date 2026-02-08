@@ -1,0 +1,4292 @@
+[
+    {
+        "index": 0,
+        "previous_hash": "0",
+        "timestamp": 1770514169.9851422,
+        "data": "Genesis: Active Zero System Online",
+        "validator_id": "Genesis",
+        "hash": "2fc3cd19c433e0035f2ade5482d0f40b50fcc30c8e08eb440dc9c7272ea1bd1d",
+        "nonce": 0
+    },
+    {
+        "index": 1,
+        "previous_hash": "2fc3cd19c433e0035f2ade5482d0f40b50fcc30c8e08eb440dc9c7272ea1bd1d",
+        "timestamp": 1770514329.9704938,
+        "data": [
+            {
+                "sender": "Mining_Reward",
+                "recipient": "ae315d4c45722953d6b93d4a901881ef9f69c772b47aaf79bc066f0dee0ca8069846e0e333d80cff7ae89d19efdf1b7d8bf42d43699bd146ee61a6dd6f8f86a4",
+                "amount": 10,
+                "data": "teste",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c2e53bfb97c3f0ac318527dd5093c645fd454639030ed692063fb54b9e1c63",
+        "nonce": 102
+    },
+    {
+        "index": 2,
+        "previous_hash": "00c2e53bfb97c3f0ac318527dd5093c645fd454639030ed692063fb54b9e1c63",
+        "timestamp": 1770514498.4728084,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00258217e5de4a0225583d046a6cadc7deba999b9a12205d41801087a906c90f",
+        "nonce": 51
+    },
+    {
+        "index": 3,
+        "previous_hash": "00258217e5de4a0225583d046a6cadc7deba999b9a12205d41801087a906c90f",
+        "timestamp": 1770514515.4769514,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0021f7e51284bb84f19579ae1b0551f4ef8b45d649db570e0da69c2f567a4768",
+        "nonce": 65
+    },
+    {
+        "index": 4,
+        "previous_hash": "0021f7e51284bb84f19579ae1b0551f4ef8b45d649db570e0da69c2f567a4768",
+        "timestamp": 1770514532.4823294,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009ff172c17073ffe3ebdbaf024ab14870c6157d58c92245ca1f32fd84778c15",
+        "nonce": 89
+    },
+    {
+        "index": 5,
+        "previous_hash": "009ff172c17073ffe3ebdbaf024ab14870c6157d58c92245ca1f32fd84778c15",
+        "timestamp": 1770514549.489419,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00adeb9fd2a0844a31396571cb4404370c4393171ef2afdd1e69f1bfdb8fa871",
+        "nonce": 66
+    },
+    {
+        "index": 6,
+        "previous_hash": "00adeb9fd2a0844a31396571cb4404370c4393171ef2afdd1e69f1bfdb8fa871",
+        "timestamp": 1770514566.5002215,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009d156e76a21f6f5cd013c98227a6483bddb22a1744e0f8906e77c0aeb51a96",
+        "nonce": 1245
+    },
+    {
+        "index": 7,
+        "previous_hash": "009d156e76a21f6f5cd013c98227a6483bddb22a1744e0f8906e77c0aeb51a96",
+        "timestamp": 1770514583.5529099,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0053cf8a91c1b676e824ce847079d7fbae07f0b276b631cd69a7f5f7f6697cb0",
+        "nonce": 307
+    },
+    {
+        "index": 8,
+        "previous_hash": "0053cf8a91c1b676e824ce847079d7fbae07f0b276b631cd69a7f5f7f6697cb0",
+        "timestamp": 1770514600.5868108,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000cb94919a326175335864b372eefa59d42ffe7ec9bb3502bcf8dbe130af2bb",
+        "nonce": 7
+    },
+    {
+        "index": 9,
+        "previous_hash": "000cb94919a326175335864b372eefa59d42ffe7ec9bb3502bcf8dbe130af2bb",
+        "timestamp": 1770514617.592432,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007157c9c180eaed1d5618f4ac867565bc9bf37c1e5e7990d008d6ccc22c9705",
+        "nonce": 66
+    },
+    {
+        "index": 10,
+        "previous_hash": "007157c9c180eaed1d5618f4ac867565bc9bf37c1e5e7990d008d6ccc22c9705",
+        "timestamp": 1770514634.6031253,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "004d18a480eedbb7024bc38340f09ba48fcfd269ae89e07efce193b311a607a9",
+        "nonce": 653
+    },
+    {
+        "index": 11,
+        "previous_hash": "004d18a480eedbb7024bc38340f09ba48fcfd269ae89e07efce193b311a607a9",
+        "timestamp": 1770514651.6369486,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006fb222b7a5f8b4bcbb6c2ba3f131ce24562ab6ac74aa0152bdf912be5940a5",
+        "nonce": 228
+    },
+    {
+        "index": 12,
+        "previous_hash": "006fb222b7a5f8b4bcbb6c2ba3f131ce24562ab6ac74aa0152bdf912be5940a5",
+        "timestamp": 1770514668.650321,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b4e123dbdb582de7b1a2ab8f3f2bb73da5da145f92a716fda48c94ed9e96d0",
+        "nonce": 724
+    },
+    {
+        "index": 13,
+        "previous_hash": "00b4e123dbdb582de7b1a2ab8f3f2bb73da5da145f92a716fda48c94ed9e96d0",
+        "timestamp": 1770514685.6857758,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00a1908b4d81d1825c805fae2bd7486525e94b979923cf97f6ea3bb5245d034a",
+        "nonce": 154
+    },
+    {
+        "index": 14,
+        "previous_hash": "00a1908b4d81d1825c805fae2bd7486525e94b979923cf97f6ea3bb5245d034a",
+        "timestamp": 1770514702.696373,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0089c469ee3a31a54259d1115dad7077cdff162ae22e226879afeb68ce967e39",
+        "nonce": 361
+    },
+    {
+        "index": 15,
+        "previous_hash": "0089c469ee3a31a54259d1115dad7077cdff162ae22e226879afeb68ce967e39",
+        "timestamp": 1770514719.7136104,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006741e74cfa4e2fbe56bfe37646cae283f3f9905e90cce283ab8c286825499e",
+        "nonce": 47
+    },
+    {
+        "index": 16,
+        "previous_hash": "006741e74cfa4e2fbe56bfe37646cae283f3f9905e90cce283ab8c286825499e",
+        "timestamp": 1770514736.7246275,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009fc413b2940c10008a96fdf0a929ba589468b3cc1d3f5414ded954e7929966",
+        "nonce": 456
+    },
+    {
+        "index": 17,
+        "previous_hash": "009fc413b2940c10008a96fdf0a929ba589468b3cc1d3f5414ded954e7929966",
+        "timestamp": 1770514753.7548366,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f0710dccd25b5541b8e306e3bda0fd6efb9a6ac3cc2b71aca8ad234fd0a51b",
+        "nonce": 566
+    },
+    {
+        "index": 18,
+        "previous_hash": "00f0710dccd25b5541b8e306e3bda0fd6efb9a6ac3cc2b71aca8ad234fd0a51b",
+        "timestamp": 1770514770.7865176,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "005dcddb523bfa105193e3ecaa437b507a5795e0098f589abd1b585bf61bf51a",
+        "nonce": 500
+    },
+    {
+        "index": 19,
+        "previous_hash": "005dcddb523bfa105193e3ecaa437b507a5795e0098f589abd1b585bf61bf51a",
+        "timestamp": 1770514787.8172238,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00de7ec22d977f93931264ffaffc7ae6c22149fa91a9064fb5b0f7b95f881761",
+        "nonce": 503
+    },
+    {
+        "index": 20,
+        "previous_hash": "00de7ec22d977f93931264ffaffc7ae6c22149fa91a9064fb5b0f7b95f881761",
+        "timestamp": 1770514804.841733,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001412aeb138ea03bf448ba9f7b8eea02e3df282a5d62c5f1afda35a341e4df4",
+        "nonce": 214
+    },
+    {
+        "index": 21,
+        "previous_hash": "001412aeb138ea03bf448ba9f7b8eea02e3df282a5d62c5f1afda35a341e4df4",
+        "timestamp": 1770514821.856542,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00ed557216969ccc5d09949333fb84be0ba298ac3ee2ceb127d1a70184d260fe",
+        "nonce": 379
+    },
+    {
+        "index": 22,
+        "previous_hash": "00ed557216969ccc5d09949333fb84be0ba298ac3ee2ceb127d1a70184d260fe",
+        "timestamp": 1770514838.8742692,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009ecd1b6923570e822fe7ff0efc7c42d99b9b7b3a0b62085ea0b6a3d1d3a36c",
+        "nonce": 1959
+    },
+    {
+        "index": 23,
+        "previous_hash": "009ecd1b6923570e822fe7ff0efc7c42d99b9b7b3a0b62085ea0b6a3d1d3a36c",
+        "timestamp": 1770514855.937587,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b2d3dabd838dd870dd6be26511d776127413bebab075c66fdbd5b7a38195a9",
+        "nonce": 536
+    },
+    {
+        "index": 24,
+        "previous_hash": "00b2d3dabd838dd870dd6be26511d776127413bebab075c66fdbd5b7a38195a9",
+        "timestamp": 1770514872.9587755,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00558327545d648c3e66a54de4637c4fc9420fe4c1b91ca4ca224e780fd9fec4",
+        "nonce": 487
+    },
+    {
+        "index": 25,
+        "previous_hash": "00558327545d648c3e66a54de4637c4fc9420fe4c1b91ca4ca224e780fd9fec4",
+        "timestamp": 1770514889.9809194,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00ca3fce190cbe8d5773306c0f81380a0500f641a533f29558b36a205427cb40",
+        "nonce": 43
+    },
+    {
+        "index": 26,
+        "previous_hash": "00ca3fce190cbe8d5773306c0f81380a0500f641a533f29558b36a205427cb40",
+        "timestamp": 1770514906.990675,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00609c426a3b8513075bbf12d83499e174ff8a0581ec5c4bc400f69e39817ee1",
+        "nonce": 856
+    },
+    {
+        "index": 27,
+        "previous_hash": "00609c426a3b8513075bbf12d83499e174ff8a0581ec5c4bc400f69e39817ee1",
+        "timestamp": 1770514924.0137587,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "008fe4f4518e6132be3db8ff3c38afbb45b8d0c82c6401506287e8fe30474699",
+        "nonce": 576
+    },
+    {
+        "index": 28,
+        "previous_hash": "008fe4f4518e6132be3db8ff3c38afbb45b8d0c82c6401506287e8fe30474699",
+        "timestamp": 1770514941.0338972,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b2e222f33d3216adb70dd26a896d20da88003faf33162eac0c093b0f0170f2",
+        "nonce": 126
+    },
+    {
+        "index": 29,
+        "previous_hash": "00b2e222f33d3216adb70dd26a896d20da88003faf33162eac0c093b0f0170f2",
+        "timestamp": 1770514958.0438182,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0096ad80c9cbd25e0d8d13863f824a99c60b9c0d7ab7e723b015edfbe9b633f7",
+        "nonce": 357
+    },
+    {
+        "index": 30,
+        "previous_hash": "0096ad80c9cbd25e0d8d13863f824a99c60b9c0d7ab7e723b015edfbe9b633f7",
+        "timestamp": 1770514975.0721517,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0059ce8b2a9720e7b501bcd8c564db162d72e7d602e04558fed9bcfa261b2d3c",
+        "nonce": 131
+    },
+    {
+        "index": 31,
+        "previous_hash": "0059ce8b2a9720e7b501bcd8c564db162d72e7d602e04558fed9bcfa261b2d3c",
+        "timestamp": 1770514992.0872083,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b18fbe8be2b273f6d3702a72a6862ad73bcfce0e5e874cebe592ce4593d118",
+        "nonce": 1046
+    },
+    {
+        "index": 32,
+        "previous_hash": "00b18fbe8be2b273f6d3702a72a6862ad73bcfce0e5e874cebe592ce4593d118",
+        "timestamp": 1770515009.130432,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00be987cf3e8e3826b94fe3344a0a7a8daa2c1c73bbfc1f43705fe1a407285db",
+        "nonce": 114
+    },
+    {
+        "index": 33,
+        "previous_hash": "00be987cf3e8e3826b94fe3344a0a7a8daa2c1c73bbfc1f43705fe1a407285db",
+        "timestamp": 1770515026.140693,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007963457df3b9f97811ccaa759374bf5f4257cd6aa16d02e97aca619fe9c0b1",
+        "nonce": 683
+    },
+    {
+        "index": 34,
+        "previous_hash": "007963457df3b9f97811ccaa759374bf5f4257cd6aa16d02e97aca619fe9c0b1",
+        "timestamp": 1770515043.1766505,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001599f9afe696e651910e11c20aad3cfcc332d9bc1e35b916e7822e1a20bf2a",
+        "nonce": 45
+    },
+    {
+        "index": 35,
+        "previous_hash": "001599f9afe696e651910e11c20aad3cfcc332d9bc1e35b916e7822e1a20bf2a",
+        "timestamp": 1770515060.1959565,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006602438acd9275988475b9695b6567c93ea945745cfe0bc31d86899bfcfcaa",
+        "nonce": 146
+    },
+    {
+        "index": 36,
+        "previous_hash": "006602438acd9275988475b9695b6567c93ea945745cfe0bc31d86899bfcfcaa",
+        "timestamp": 1770515077.2222478,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0052dc3ef341be76315856548b1de3fb9285f0e2f7e4addeb23d0fa922a632bb",
+        "nonce": 80
+    },
+    {
+        "index": 37,
+        "previous_hash": "0052dc3ef341be76315856548b1de3fb9285f0e2f7e4addeb23d0fa922a632bb",
+        "timestamp": 1770515094.240472,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001b11cc5dd233c9e2d83a8f44587cfa5a37945183336ea08896ffd69d842fa1",
+        "nonce": 115
+    },
+    {
+        "index": 38,
+        "previous_hash": "001b11cc5dd233c9e2d83a8f44587cfa5a37945183336ea08896ffd69d842fa1",
+        "timestamp": 1770515111.261061,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b39bb34dc3092143f994840e146d5538d2b86537944d825df721ae6b51af04",
+        "nonce": 152
+    },
+    {
+        "index": 39,
+        "previous_hash": "00b39bb34dc3092143f994840e146d5538d2b86537944d825df721ae6b51af04",
+        "timestamp": 1770515128.283157,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006ffc0f54f21518b6a0c1e0ede1f2ee14c2d086d020a2cbb90a8df4dc5d8bc9",
+        "nonce": 395
+    },
+    {
+        "index": 40,
+        "previous_hash": "006ffc0f54f21518b6a0c1e0ede1f2ee14c2d086d020a2cbb90a8df4dc5d8bc9",
+        "timestamp": 1770515145.313979,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00178af2cf4859ee7f7cef4ce63b09162f9cf088a3ea4067db74f268337c0029",
+        "nonce": 24
+    },
+    {
+        "index": 41,
+        "previous_hash": "00178af2cf4859ee7f7cef4ce63b09162f9cf088a3ea4067db74f268337c0029",
+        "timestamp": 1770515162.3249612,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007b2ffd105539743247779d9cfc8e85e479a704efd4fbd30ae750f8619fd9df",
+        "nonce": 380
+    },
+    {
+        "index": 42,
+        "previous_hash": "007b2ffd105539743247779d9cfc8e85e479a704efd4fbd30ae750f8619fd9df",
+        "timestamp": 1770515179.3523366,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d3840aa298c0f4c53a1b9fad65f12e89f2925345a188432ce99b79fe70da12",
+        "nonce": 236
+    },
+    {
+        "index": 43,
+        "previous_hash": "00d3840aa298c0f4c53a1b9fad65f12e89f2925345a188432ce99b79fe70da12",
+        "timestamp": 1770515196.372304,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0054a8977285b08339051498fba5f348ad1d7d5627fa8cc531eeef339a7b8b61",
+        "nonce": 75
+    },
+    {
+        "index": 44,
+        "previous_hash": "0054a8977285b08339051498fba5f348ad1d7d5627fa8cc531eeef339a7b8b61",
+        "timestamp": 1770515213.3890057,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001ea8cea81328cd1b1d2a1d58f82a1560287d24111c18da797c4178dd2308c0",
+        "nonce": 99
+    },
+    {
+        "index": 45,
+        "previous_hash": "001ea8cea81328cd1b1d2a1d58f82a1560287d24111c18da797c4178dd2308c0",
+        "timestamp": 1770515230.4094522,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00761f59b31bb04a76626ea3446e66979587cfa27cbede86f7da0e4847419c9d",
+        "nonce": 67
+    },
+    {
+        "index": 46,
+        "previous_hash": "00761f59b31bb04a76626ea3446e66979587cfa27cbede86f7da0e4847419c9d",
+        "timestamp": 1770515247.4286973,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002bbfcfff400f013d3acc1874c4d3a0d871e17b16ba5a6f78b06f7bbff18552",
+        "nonce": 174
+    },
+    {
+        "index": 47,
+        "previous_hash": "002bbfcfff400f013d3acc1874c4d3a0d871e17b16ba5a6f78b06f7bbff18552",
+        "timestamp": 1770515264.451695,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0093a7a5c0efcc57043f6568411aebf966b8860735fc4f8cbc33e6b8838a29a8",
+        "nonce": 143
+    },
+    {
+        "index": 48,
+        "previous_hash": "0093a7a5c0efcc57043f6568411aebf966b8860735fc4f8cbc33e6b8838a29a8",
+        "timestamp": 1770515281.4701772,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0001e0e3efa4b05b76c6e3cb06dbd1a809c8d0a98355b04a0a2823069f3e381b",
+        "nonce": 121
+    },
+    {
+        "index": 49,
+        "previous_hash": "0001e0e3efa4b05b76c6e3cb06dbd1a809c8d0a98355b04a0a2823069f3e381b",
+        "timestamp": 1770515298.4838595,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0095c2d3cf640831fe73baa7bcab4c53e1b24e5d4671212fe79014b9f9498136",
+        "nonce": 886
+    },
+    {
+        "index": 50,
+        "previous_hash": "0095c2d3cf640831fe73baa7bcab4c53e1b24e5d4671212fe79014b9f9498136",
+        "timestamp": 1770515315.5241213,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "004efd332cd3f66c94584c017322c0419a1857b1167efe51ba45705ed522550c",
+        "nonce": 226
+    },
+    {
+        "index": 51,
+        "previous_hash": "004efd332cd3f66c94584c017322c0419a1857b1167efe51ba45705ed522550c",
+        "timestamp": 1770515332.5408554,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0044636f9bbf2f050b5e830422e6a602581a5041ee6ff4d856015e17a460e583",
+        "nonce": 126
+    },
+    {
+        "index": 52,
+        "previous_hash": "0044636f9bbf2f050b5e830422e6a602581a5041ee6ff4d856015e17a460e583",
+        "timestamp": 1770515349.5554366,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00a96ef0b264b25f91403616cc95a2ab2ea68dcc53fd966ba902758a62024f6c",
+        "nonce": 323
+    },
+    {
+        "index": 53,
+        "previous_hash": "00a96ef0b264b25f91403616cc95a2ab2ea68dcc53fd966ba902758a62024f6c",
+        "timestamp": 1770515366.5754151,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00136582c6860094da4c9e560337137251337188f0662342116c24dda0b32be2",
+        "nonce": 198
+    },
+    {
+        "index": 54,
+        "previous_hash": "00136582c6860094da4c9e560337137251337188f0662342116c24dda0b32be2",
+        "timestamp": 1770515383.594789,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0072a6133df5a2dab4ca7ba0511bf01c34cbd7e58f5c312b66301c24f4266dc2",
+        "nonce": 1052
+    },
+    {
+        "index": 55,
+        "previous_hash": "0072a6133df5a2dab4ca7ba0511bf01c34cbd7e58f5c312b66301c24f4266dc2",
+        "timestamp": 1770515400.6333978,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006f97163bd978f78c855799fba8e2e2b3ef1ceaa1fd8757cfc08413e7578ea4",
+        "nonce": 38
+    },
+    {
+        "index": 56,
+        "previous_hash": "006f97163bd978f78c855799fba8e2e2b3ef1ceaa1fd8757cfc08413e7578ea4",
+        "timestamp": 1770515417.647316,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0039ddbba8d34e9516ee59f0ce26800efcca457baf728e03f12f709736d56e6f",
+        "nonce": 24
+    },
+    {
+        "index": 57,
+        "previous_hash": "0039ddbba8d34e9516ee59f0ce26800efcca457baf728e03f12f709736d56e6f",
+        "timestamp": 1770515434.6608942,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000a20c9242db604d4bdf40c85257ea1819613da892163c568e5106aa90184a3",
+        "nonce": 2
+    },
+    {
+        "index": 58,
+        "previous_hash": "000a20c9242db604d4bdf40c85257ea1819613da892163c568e5106aa90184a3",
+        "timestamp": 1770515451.678802,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000f3c5179313ed55d4792e6f19a3773bdd061891396dbffb45cab10f8bdc37e",
+        "nonce": 144
+    },
+    {
+        "index": 59,
+        "previous_hash": "000f3c5179313ed55d4792e6f19a3773bdd061891396dbffb45cab10f8bdc37e",
+        "timestamp": 1770515468.7064939,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000cfef014ec3b8043b69a467e9f33eccb2ac5c190e02080ba1dd185cc3abbf0",
+        "nonce": 6
+    },
+    {
+        "index": 60,
+        "previous_hash": "000cfef014ec3b8043b69a467e9f33eccb2ac5c190e02080ba1dd185cc3abbf0",
+        "timestamp": 1770515485.7231297,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00503290a8b84fc010fd6b4c83de5bdd5907b7d2af6302cbae10a8337796ec70",
+        "nonce": 117
+    },
+    {
+        "index": 61,
+        "previous_hash": "00503290a8b84fc010fd6b4c83de5bdd5907b7d2af6302cbae10a8337796ec70",
+        "timestamp": 1770515502.746697,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00573f9f0e1b2d4224365a72c8e6249470ac59a8b49b354f441c1f68bc145b06",
+        "nonce": 163
+    },
+    {
+        "index": 62,
+        "previous_hash": "00573f9f0e1b2d4224365a72c8e6249470ac59a8b49b354f441c1f68bc145b06",
+        "timestamp": 1770515519.7712119,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0022cb74414751b3ee002c352482b62a25fb953c3d36439d7bd406f42d42c918",
+        "nonce": 231
+    },
+    {
+        "index": 63,
+        "previous_hash": "0022cb74414751b3ee002c352482b62a25fb953c3d36439d7bd406f42d42c918",
+        "timestamp": 1770515536.7974458,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c87450875ff1eae09a7fb5aed58664747059a910725f56019f43fe646e2701",
+        "nonce": 164
+    },
+    {
+        "index": 64,
+        "previous_hash": "00c87450875ff1eae09a7fb5aed58664747059a910725f56019f43fe646e2701",
+        "timestamp": 1770515553.8217847,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001632e1720f86fe3524e66d12c89817da5e02b2f2de7f4ec950f6b21795d40a",
+        "nonce": 402
+    },
+    {
+        "index": 65,
+        "previous_hash": "001632e1720f86fe3524e66d12c89817da5e02b2f2de7f4ec950f6b21795d40a",
+        "timestamp": 1770515570.8517578,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007ebd8f073c07e3dc153f7a9846f1ac6757c2221ceaffcd1f89c641502647d0",
+        "nonce": 141
+    },
+    {
+        "index": 66,
+        "previous_hash": "007ebd8f073c07e3dc153f7a9846f1ac6757c2221ceaffcd1f89c641502647d0",
+        "timestamp": 1770515587.8691154,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007f7bfd365f2ab837044283edbda45c5c31fc580d2664fefe8ba52cfdc66b50",
+        "nonce": 1
+    },
+    {
+        "index": 67,
+        "previous_hash": "007f7bfd365f2ab837044283edbda45c5c31fc580d2664fefe8ba52cfdc66b50",
+        "timestamp": 1770515604.8864305,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00a2036623f0768b2a7f496bb4291de3d776a96be413dfaf2049af2d9d3dbe3a",
+        "nonce": 613
+    },
+    {
+        "index": 68,
+        "previous_hash": "00a2036623f0768b2a7f496bb4291de3d776a96be413dfaf2049af2d9d3dbe3a",
+        "timestamp": 1770515621.9216194,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "005c304459b7b20b9cf6f823cf02cbb884ffa3e9ac1d854e30cf8777cd860ec4",
+        "nonce": 249
+    },
+    {
+        "index": 69,
+        "previous_hash": "005c304459b7b20b9cf6f823cf02cbb884ffa3e9ac1d854e30cf8777cd860ec4",
+        "timestamp": 1770515638.9421642,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e47e303f0d805d13fb688a6c1368b233e51f83cb73e39284d4240efca7b59e",
+        "nonce": 258
+    },
+    {
+        "index": 70,
+        "previous_hash": "00e47e303f0d805d13fb688a6c1368b233e51f83cb73e39284d4240efca7b59e",
+        "timestamp": 1770515655.9656541,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b4db05b06d689b93007e36eefbbf2d20364dffbcc674d6944e5fb03bbac58d",
+        "nonce": 23
+    },
+    {
+        "index": 71,
+        "previous_hash": "00b4db05b06d689b93007e36eefbbf2d20364dffbcc674d6944e5fb03bbac58d",
+        "timestamp": 1770515672.983056,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f9e19dbe32e55da8dd9e70d1ff786665a5032f23f10a90d2dc04cc4575afb0",
+        "nonce": 73
+    },
+    {
+        "index": 72,
+        "previous_hash": "00f9e19dbe32e55da8dd9e70d1ff786665a5032f23f10a90d2dc04cc4575afb0",
+        "timestamp": 1770515690.004497,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00245f86a396c0398d0d33b89c801085231f34020db183f9686da4045ef2764c",
+        "nonce": 276
+    },
+    {
+        "index": 73,
+        "previous_hash": "00245f86a396c0398d0d33b89c801085231f34020db183f9686da4045ef2764c",
+        "timestamp": 1770515707.0405645,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002a0dab205b0c701429840e6c244bb10ecbdc3a8e2e2d00b1693b7830f89910",
+        "nonce": 253
+    },
+    {
+        "index": 74,
+        "previous_hash": "002a0dab205b0c701429840e6c244bb10ecbdc3a8e2e2d00b1693b7830f89910",
+        "timestamp": 1770515724.0679238,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c85a0ac9438fca42fbd580a114198b253a146f4cf94b7003aedb17180cf8ff",
+        "nonce": 252
+    },
+    {
+        "index": 75,
+        "previous_hash": "00c85a0ac9438fca42fbd580a114198b253a146f4cf94b7003aedb17180cf8ff",
+        "timestamp": 1770515741.0913045,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0063d39f8918515c67ab72b7aa5184caffb143fb5eeebcb87920e9235c199f2f",
+        "nonce": 32
+    },
+    {
+        "index": 76,
+        "previous_hash": "0063d39f8918515c67ab72b7aa5184caffb143fb5eeebcb87920e9235c199f2f",
+        "timestamp": 1770515758.104454,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A verdade matem\u00e1tica n\u00e3o precisa de permiss\u00e3o.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "004f0c56745fecf2a7f18724ee7e5dfa681fe14613d5462f4a7bb51668f63a0e",
+        "nonce": 22
+    },
+    {
+        "index": 77,
+        "previous_hash": "004f0c56745fecf2a7f18724ee7e5dfa681fe14613d5462f4a7bb51668f63a0e",
+        "timestamp": 1770515775.1215806,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00ea71c13451716fc0806971448aae57b5a2638a22bc651ef4d4088381f8ef08",
+        "nonce": 306
+    },
+    {
+        "index": 78,
+        "previous_hash": "00ea71c13451716fc0806971448aae57b5a2638a22bc651ef4d4088381f8ef08",
+        "timestamp": 1770515792.1587198,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00fe0a4834bd3ba2b11bc97099df06db7424a525ba9fb73218bb314bd04807db",
+        "nonce": 75
+    },
+    {
+        "index": 79,
+        "previous_hash": "00fe0a4834bd3ba2b11bc97099df06db7424a525ba9fb73218bb314bd04807db",
+        "timestamp": 1770515809.1802065,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d580db9fe238ca32b689905a488abe972e5108bc9906a6adefcf9fa84e0e5e",
+        "nonce": 34
+    },
+    {
+        "index": 80,
+        "previous_hash": "00d580db9fe238ca32b689905a488abe972e5108bc9906a6adefcf9fa84e0e5e",
+        "timestamp": 1770515826.199501,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0023f4837254230f743129c24eb68b04cf48f3def29f94b9aeabb9e035a90f33",
+        "nonce": 246
+    },
+    {
+        "index": 81,
+        "previous_hash": "0023f4837254230f743129c24eb68b04cf48f3def29f94b9aeabb9e035a90f33",
+        "timestamp": 1770515843.2301168,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "003691f8211b1ea075365da745b9f56aed2da9fffd921e5b2359bb8a0d9c8235",
+        "nonce": 33
+    },
+    {
+        "index": 82,
+        "previous_hash": "003691f8211b1ea075365da745b9f56aed2da9fffd921e5b2359bb8a0d9c8235",
+        "timestamp": 1770515860.2474217,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00ef1a609da679118f5a7278fe052022a738d92802c1f50c8c8b252cb9a6e382",
+        "nonce": 354
+    },
+    {
+        "index": 83,
+        "previous_hash": "00ef1a609da679118f5a7278fe052022a738d92802c1f50c8c8b252cb9a6e382",
+        "timestamp": 1770515877.2662933,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007b806df4e643ed2ead9ef2b31835f0853e09462038b1b7028ffbe744f608af",
+        "nonce": 139
+    },
+    {
+        "index": 84,
+        "previous_hash": "007b806df4e643ed2ead9ef2b31835f0853e09462038b1b7028ffbe744f608af",
+        "timestamp": 1770515894.2933376,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006673c281aaa4cdcbeeeec202c18ea537114aea589ecb45be6208395f4d9608",
+        "nonce": 81
+    },
+    {
+        "index": 85,
+        "previous_hash": "006673c281aaa4cdcbeeeec202c18ea537114aea589ecb45be6208395f4d9608",
+        "timestamp": 1770515911.3176692,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00524332be2ab1be9260a8d78f0c98dc23b4a85443e1368448e8ac5f3a4358dd",
+        "nonce": 83
+    },
+    {
+        "index": 86,
+        "previous_hash": "00524332be2ab1be9260a8d78f0c98dc23b4a85443e1368448e8ac5f3a4358dd",
+        "timestamp": 1770515928.3418858,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00666bc0a88a54e0554a188253b115271b7d4183d0a984d98c666e617a53db24",
+        "nonce": 6
+    },
+    {
+        "index": 87,
+        "previous_hash": "00666bc0a88a54e0554a188253b115271b7d4183d0a984d98c666e617a53db24",
+        "timestamp": 1770515945.3636222,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00347dcbeead33ebfb85064f603e7c092bbafcd2a7a034320af480bb8fb21f96",
+        "nonce": 202
+    },
+    {
+        "index": 88,
+        "previous_hash": "00347dcbeead33ebfb85064f603e7c092bbafcd2a7a034320af480bb8fb21f96",
+        "timestamp": 1770515962.3923802,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002a07d8c00a1283399e9c2bd2bb92ecb5ba15ebad86ab85852f93c055a913b4",
+        "nonce": 11
+    },
+    {
+        "index": 89,
+        "previous_hash": "002a07d8c00a1283399e9c2bd2bb92ecb5ba15ebad86ab85852f93c055a913b4",
+        "timestamp": 1770515979.434466,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f42224fdf08acd6309431f8a4da72436599b4512f721e01cdd3637c3220e54",
+        "nonce": 26
+    },
+    {
+        "index": 90,
+        "previous_hash": "00f42224fdf08acd6309431f8a4da72436599b4512f721e01cdd3637c3220e54",
+        "timestamp": 1770515996.4555423,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0064c004c670d14b9c58adb8de6aae23dc177583a5a498a0e4595bb3a897e7b0",
+        "nonce": 2
+    },
+    {
+        "index": 91,
+        "previous_hash": "0064c004c670d14b9c58adb8de6aae23dc177583a5a498a0e4595bb3a897e7b0",
+        "timestamp": 1770516013.4735563,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006ad5fe748689a7ec697dc8631dee98c733e2a110ef9fc8c82a906126eca7d5",
+        "nonce": 421
+    },
+    {
+        "index": 92,
+        "previous_hash": "006ad5fe748689a7ec697dc8631dee98c733e2a110ef9fc8c82a906126eca7d5",
+        "timestamp": 1770516030.5028327,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e5a7249d47abf1f1713714f5bad847e3cd4ba82c8abefa7a5fdf26a1d5a508",
+        "nonce": 208
+    },
+    {
+        "index": 93,
+        "previous_hash": "00e5a7249d47abf1f1713714f5bad847e3cd4ba82c8abefa7a5fdf26a1d5a508",
+        "timestamp": 1770516047.5348248,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "004dfe513ee5bafcf7a587bc709c2621f16e7d016ee1f6bd24f5ba37da382517",
+        "nonce": 252
+    },
+    {
+        "index": 94,
+        "previous_hash": "004dfe513ee5bafcf7a587bc709c2621f16e7d016ee1f6bd24f5ba37da382517",
+        "timestamp": 1770516052.9713135,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 965.43ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "008d9f4e00a8f0f96f9c964905004942fba275efae307d4efc984c4ccd3c32b2",
+        "nonce": 203
+    },
+    {
+        "index": 95,
+        "previous_hash": "008d9f4e00a8f0f96f9c964905004942fba275efae307d4efc984c4ccd3c32b2",
+        "timestamp": 1770516064.5595782,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00ae60515faf885aa1937c7b35feba1d45bbb246d9b946c9343efdc5f1ef1318",
+        "nonce": 68
+    },
+    {
+        "index": 96,
+        "previous_hash": "00ae60515faf885aa1937c7b35feba1d45bbb246d9b946c9343efdc5f1ef1318",
+        "timestamp": 1770516081.5792336,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e3a6279d0d9a66cdc075495ac51b65bbcbd6c577852b131061f42db7f53761",
+        "nonce": 40
+    },
+    {
+        "index": 97,
+        "previous_hash": "00e3a6279d0d9a66cdc075495ac51b65bbcbd6c577852b131061f42db7f53761",
+        "timestamp": 1770516083.3521433,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 351.26ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000193a2b0d36eda78cf48e82826b402d756bb8b30f3ef00d26f6360fa515855",
+        "nonce": 142
+    },
+    {
+        "index": 98,
+        "previous_hash": "000193a2b0d36eda78cf48e82826b402d756bb8b30f3ef00d26f6360fa515855",
+        "timestamp": 1770516098.593803,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "004ab380a780e86944ec295c6b0f65073e31238ee873c2b0f52c444bf06487d7",
+        "nonce": 146
+    },
+    {
+        "index": 99,
+        "previous_hash": "004ab380a780e86944ec295c6b0f65073e31238ee873c2b0f52c444bf06487d7",
+        "timestamp": 1770516118.0955477,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c82f4a1f6224de9eef5cf9c9efae7ce42fde329ecd3f9c88beeacb940578a7",
+        "nonce": 292
+    },
+    {
+        "index": 100,
+        "previous_hash": "00c82f4a1f6224de9eef5cf9c9efae7ce42fde329ecd3f9c88beeacb940578a7",
+        "timestamp": 1770516132.6520553,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00800e18f3671e82e5288e898ce9a67fa98566cef12450ceb510e11c2ed910b3",
+        "nonce": 583
+    },
+    {
+        "index": 101,
+        "previous_hash": "00800e18f3671e82e5288e898ce9a67fa98566cef12450ceb510e11c2ed910b3",
+        "timestamp": 1770516149.685517,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "003c0088214b3a5bb444bd0d55789a7ef5a1f6a5e5bc3f0d0b3a80234c64f8db",
+        "nonce": 155
+    },
+    {
+        "index": 102,
+        "previous_hash": "003c0088214b3a5bb444bd0d55789a7ef5a1f6a5e5bc3f0d0b3a80234c64f8db",
+        "timestamp": 1770516166.7131307,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Resson\u00e2ncia Labs: Onde o futuro \u00e9 compilado.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0081c0cab1413ba067dad84576a3e9dcdf31da5599d00174da077a287fd32b82",
+        "nonce": 356
+    },
+    {
+        "index": 103,
+        "previous_hash": "0081c0cab1413ba067dad84576a3e9dcdf31da5599d00174da077a287fd32b82",
+        "timestamp": 1770516179.410989,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 184.2ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0020912abd067d2d68487aaaf9333f56989bc4f70c4b38e039218c998d9ca303",
+        "nonce": 227
+    },
+    {
+        "index": 104,
+        "previous_hash": "0020912abd067d2d68487aaaf9333f56989bc4f70c4b38e039218c998d9ca303",
+        "timestamp": 1770516183.7472303,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00dff19f380a281d8b5e05764f54d144c68ca33c129e6adf8bdf0471a3a19ff2",
+        "nonce": 153
+    },
+    {
+        "index": 105,
+        "previous_hash": "00dff19f380a281d8b5e05764f54d144c68ca33c129e6adf8bdf0471a3a19ff2",
+        "timestamp": 1770516200.7694366,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00a304b0ef845dc2533a18056a25837196df0821bd766d10c478f0f7cfb84c27",
+        "nonce": 323
+    },
+    {
+        "index": 106,
+        "previous_hash": "00a304b0ef845dc2533a18056a25837196df0821bd766d10c478f0f7cfb84c27",
+        "timestamp": 1770516209.4583192,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0088fb62e36ed30163c3985072937866bccbe9e09e5dc6c0c47113e7bf16e1ed",
+        "nonce": 201
+    },
+    {
+        "index": 107,
+        "previous_hash": "0088fb62e36ed30163c3985072937866bccbe9e09e5dc6c0c47113e7bf16e1ed",
+        "timestamp": 1770516217.8284829,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00344d820d4fdb2ace6f927e3fcc31d643e11e9fb4207f475d994450986b8f7a",
+        "nonce": 67
+    },
+    {
+        "index": 108,
+        "previous_hash": "00344d820d4fdb2ace6f927e3fcc31d643e11e9fb4207f475d994450986b8f7a",
+        "timestamp": 1770516234.8515718,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00a597b075e1a91b48d61b2c8d95d7ed8c8491e71276940cf577f0573f392482",
+        "nonce": 166
+    },
+    {
+        "index": 109,
+        "previous_hash": "00a597b075e1a91b48d61b2c8d95d7ed8c8491e71276940cf577f0573f392482",
+        "timestamp": 1770516240.5852394,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1086.01ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00131b814ffbe014807f70568696cbeed662075a8d5a95e1169bd2343aa40a8b",
+        "nonce": 798
+    },
+    {
+        "index": 110,
+        "previous_hash": "00131b814ffbe014807f70568696cbeed662075a8d5a95e1169bd2343aa40a8b",
+        "timestamp": 1770516251.8792138,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f09a043df991a03ec3c4882a050c4d62160f37c9cb4f24649df5b7f0286269",
+        "nonce": 163
+    },
+    {
+        "index": 111,
+        "previous_hash": "00f09a043df991a03ec3c4882a050c4d62160f37c9cb4f24649df5b7f0286269",
+        "timestamp": 1770516268.911018,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007d1631ce2dbf6fb6e61ce7cfc91a22ef474ea36b13b496dd8945d151ea7b7a",
+        "nonce": 243
+    },
+    {
+        "index": 112,
+        "previous_hash": "007d1631ce2dbf6fb6e61ce7cfc91a22ef474ea36b13b496dd8945d151ea7b7a",
+        "timestamp": 1770516276.0428324,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 5418.13ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002d077d4f4379082e105cc4a6e5de5e59bd60708679689acedcc642fe458ec8",
+        "nonce": 151
+    },
+    {
+        "index": 113,
+        "previous_hash": "002d077d4f4379082e105cc4a6e5de5e59bd60708679689acedcc642fe458ec8",
+        "timestamp": 1770516285.9495902,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007267140bc38ae5ffe02ae0958bc663ba1b28981314e396b389a58f4ddce11a",
+        "nonce": 0
+    },
+    {
+        "index": 114,
+        "previous_hash": "007267140bc38ae5ffe02ae0958bc663ba1b28981314e396b389a58f4ddce11a",
+        "timestamp": 1770516302.9682934,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "005130b748ab5719db43d5a3d3cb5848d74705ff57737e787d5321d43815922f",
+        "nonce": 77
+    },
+    {
+        "index": 115,
+        "previous_hash": "005130b748ab5719db43d5a3d3cb5848d74705ff57737e787d5321d43815922f",
+        "timestamp": 1770516306.103624,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0079375da6bba81f7ef7f54f49a33b916c1c07bca5ac02915eddd9735d494005",
+        "nonce": 164
+    },
+    {
+        "index": 116,
+        "previous_hash": "0079375da6bba81f7ef7f54f49a33b916c1c07bca5ac02915eddd9735d494005",
+        "timestamp": 1770516319.996791,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00efc582acf48a371370dc771cbeb0b2be4d8cc6a0a3ef0eba09aaa8ce34ef7c",
+        "nonce": 287
+    },
+    {
+        "index": 117,
+        "previous_hash": "00efc582acf48a371370dc771cbeb0b2be4d8cc6a0a3ef0eba09aaa8ce34ef7c",
+        "timestamp": 1770516337.2173655,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1066.72ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009a2af2d24dd7b24a5666f3c2d27373631f49a59def0f4d51cc0d054f1ae639",
+        "nonce": 188
+    },
+    {
+        "index": 118,
+        "previous_hash": "009a2af2d24dd7b24a5666f3c2d27373631f49a59def0f4d51cc0d054f1ae639",
+        "timestamp": 1770516354.0725763,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: QuantumChain: Validando a realidade, um bloco por vez.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "003730fd9e54519b56ec89b6d9289d98d8e72785402ce0e965d0db223a6245c9",
+        "nonce": 310
+    },
+    {
+        "index": 119,
+        "previous_hash": "003730fd9e54519b56ec89b6d9289d98d8e72785402ce0e965d0db223a6245c9",
+        "timestamp": 1770516367.4544172,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 208.2ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007e1cb497a561b43a37a6de52f8d4de00080b6e96603b70f2808199b7aea18e",
+        "nonce": 94
+    },
+    {
+        "index": 120,
+        "previous_hash": "007e1cb497a561b43a37a6de52f8d4de00080b6e96603b70f2808199b7aea18e",
+        "timestamp": 1770516371.0983496,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A descentraliza\u00e7\u00e3o \u00e9 a \u00fanica defesa contra a censura.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d4fcb70eea30636d1f94bd828289313398005365e97f119f1c4905eb7cf64c",
+        "nonce": 170
+    },
+    {
+        "index": 121,
+        "previous_hash": "00d4fcb70eea30636d1f94bd828289313398005365e97f119f1c4905eb7cf64c",
+        "timestamp": 1770516388.1245253,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: Active Zero: Operando nas sombras.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00232349ca1c6bab8e4a1f116bd57bdb7572d16aeae8fd8d74414ffb7c29c3dc",
+        "nonce": 120
+    },
+    {
+        "index": 122,
+        "previous_hash": "00232349ca1c6bab8e4a1f116bd57bdb7572d16aeae8fd8d74414ffb7c29c3dc",
+        "timestamp": 1770516397.4866064,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d804e412049e18c96dc1e2a4215822bdfe11aea305c929bcee779d4207b893",
+        "nonce": 76
+    },
+    {
+        "index": 123,
+        "previous_hash": "00d804e412049e18c96dc1e2a4215822bdfe11aea305c929bcee779d4207b893",
+        "timestamp": 1770516405.15241,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b1a3e6efa86831c81d3bb3cfeaa8d85d39630f5b52ceca7dfe5048f00ee805",
+        "nonce": 908
+    },
+    {
+        "index": 124,
+        "previous_hash": "00b1a3e6efa86831c81d3bb3cfeaa8d85d39630f5b52ceca7dfe5048f00ee805",
+        "timestamp": 1770516422.195915,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: O c\u00f3digo \u00e9 a lei, mas a consci\u00eancia \u00e9 o juiz.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "004dcc622e9a9bbcfc709a77fbf68ac9d7121d5b8a126049dd8ed73ccfdf2dce",
+        "nonce": 407
+    },
+    {
+        "index": 125,
+        "previous_hash": "004dcc622e9a9bbcfc709a77fbf68ac9d7121d5b8a126049dd8ed73ccfdf2dce",
+        "timestamp": 1770516428.328993,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 807.3ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002d8e4739688503b40a5ca3009f1226e3f49d0f4d28eda4d40f6a8b29ab184e",
+        "nonce": 802
+    },
+    {
+        "index": 126,
+        "previous_hash": "002d8e4739688503b40a5ca3009f1226e3f49d0f4d28eda4d40f6a8b29ab184e",
+        "timestamp": 1770516439.2186942,
+        "data": [
+            {
+                "sender": "Mining_Bot_Reward",
+                "recipient": "fe8ce56eb37c92dea19c62860e71b5a86b5545adfd033967415761d2fe67621957838e537a4a42acfea4abdf939555cb74c26771b5397a5b6600c2a1af881c21",
+                "amount": 10,
+                "data": "Bot Insight: A entropia do sistema diminui conforme a organiza\u00e7\u00e3o aumenta.",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d7a34c0c0868d87ae042340a7480cd6c1284db6884955371309b7eb497254a",
+        "nonce": 305
+    },
+    {
+        "index": 127,
+        "previous_hash": "00d7a34c0c0868d87ae042340a7480cd6c1284db6884955371309b7eb497254a",
+        "timestamp": 1770516458.5239968,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 154.27ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "008f0d40a81a4a4163a5404f4e5f42a838421255854ef03a56df5c8ebc8d0ad0",
+        "nonce": 12
+    },
+    {
+        "index": 128,
+        "previous_hash": "008f0d40a81a4a4163a5404f4e5f42a838421255854ef03a56df5c8ebc8d0ad0",
+        "timestamp": 1770516485.9325619,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 793.27ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0069c77e66080c755b39de8926e90f1a1e51129c86a6f8563db64d7ca4adedeb",
+        "nonce": 1453
+    },
+    {
+        "index": 129,
+        "previous_hash": "0069c77e66080c755b39de8926e90f1a1e51129c86a6f8563db64d7ca4adedeb",
+        "timestamp": 1770516488.5505176,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009ced6e438589c923a132f287f2a1628fb762cf2ca27631ed8a908db3e06c88",
+        "nonce": 18
+    },
+    {
+        "index": 130,
+        "previous_hash": "009ced6e438589c923a132f287f2a1628fb762cf2ca27631ed8a908db3e06c88",
+        "timestamp": 1770516501.0747406,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 84.71ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00bcc0d4e25b6a9ac369d552cdaea7d8bb80a3c9a81f47532ce051d08f0b2b0f",
+        "nonce": 65
+    },
+    {
+        "index": 131,
+        "previous_hash": "00bcc0d4e25b6a9ac369d552cdaea7d8bb80a3c9a81f47532ce051d08f0b2b0f",
+        "timestamp": 1770516516.5038128,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 399.96ms | BTC: $69315.98",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00bef1ce066d9a1e417eb18500caef8623e35b0cfec15d3030fc608a68ce46d5",
+        "nonce": 176
+    },
+    {
+        "index": 132,
+        "previous_hash": "00bef1ce066d9a1e417eb18500caef8623e35b0cfec15d3030fc608a68ce46d5",
+        "timestamp": 1770516521.7405066,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 3160.84ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e9ffedf03bc1ee3d6a4bb2124fd902cdcf9f86afc414476342f06890a3812b",
+        "nonce": 24
+    },
+    {
+        "index": 133,
+        "previous_hash": "00e9ffedf03bc1ee3d6a4bb2124fd902cdcf9f86afc414476342f06890a3812b",
+        "timestamp": 1770516533.9584131,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 2400.56ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001151a53d54b6fa6eea9dae20488479fe096ab9d92e1678b4dbf12c92f8dd72",
+        "nonce": 78
+    },
+    {
+        "index": 134,
+        "previous_hash": "001151a53d54b6fa6eea9dae20488479fe096ab9d92e1678b4dbf12c92f8dd72",
+        "timestamp": 1770516549.0898013,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 107.42ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000489ec169bf8cd445ad739ed2632be66d8467a272ad77e2756dbb2c0cb905d",
+        "nonce": 523
+    },
+    {
+        "index": 135,
+        "previous_hash": "000489ec169bf8cd445ad739ed2632be66d8467a272ad77e2756dbb2c0cb905d",
+        "timestamp": 1770516551.9304318,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 147.22ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00191d078bc0a64c6078262dea00b4dff8f2ae53bdd17a7b5d22289158a75cc2",
+        "nonce": 486
+    },
+    {
+        "index": 136,
+        "previous_hash": "00191d078bc0a64c6078262dea00b4dff8f2ae53bdd17a7b5d22289158a75cc2",
+        "timestamp": 1770516564.516324,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 391.48ms | BTC: $69362.29",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "005f9d755988fd42597841b5a8e7460b5f17235f2e0debf1bbb78840f84f159e",
+        "nonce": 132
+    },
+    {
+        "index": 137,
+        "previous_hash": "005f9d755988fd42597841b5a8e7460b5f17235f2e0debf1bbb78840f84f159e",
+        "timestamp": 1770516580.3372085,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 784.25ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00238e2e3b450117aff819f7308899405a20d9c4e3d66667aaa2ebf177672903",
+        "nonce": 221
+    },
+    {
+        "index": 138,
+        "previous_hash": "00238e2e3b450117aff819f7308899405a20d9c4e3d66667aaa2ebf177672903",
+        "timestamp": 1770516582.0128949,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00808f265d386ce93b4c64118737875bb6e6cdb614d03294dfff6678fb043007",
+        "nonce": 141
+    },
+    {
+        "index": 139,
+        "previous_hash": "00808f265d386ce93b4c64118737875bb6e6cdb614d03294dfff6678fb043007",
+        "timestamp": 1770516595.4507523,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 86.37ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00cfc88174e5fd73b17d139962839c1107c906c403f27cf63bb112e5341e1537",
+        "nonce": 598
+    },
+    {
+        "index": 140,
+        "previous_hash": "00cfc88174e5fd73b17d139962839c1107c906c403f27cf63bb112e5341e1537",
+        "timestamp": 1770516610.9117117,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 424.0ms | BTC: $69427.07",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001394e88bf9871a8560878307b50ca6fa73b5e2ddf8729fa22a9ab8e1738d39",
+        "nonce": 4
+    },
+    {
+        "index": 141,
+        "previous_hash": "001394e88bf9871a8560878307b50ca6fa73b5e2ddf8729fa22a9ab8e1738d39",
+        "timestamp": 1770516612.9478781,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 903.75ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009e73b2f470cc8e8e635f22cd148555b7ae484390c08ff3ef6a9675a7d83ca9",
+        "nonce": 878
+    },
+    {
+        "index": 142,
+        "previous_hash": "009e73b2f470cc8e8e635f22cd148555b7ae484390c08ff3ef6a9675a7d83ca9",
+        "timestamp": 1770516627.0453987,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1095.59ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d01a53803acbae92728a6fd6890560f8c702a47e161db3bd2bc877de28cb24",
+        "nonce": 901
+    },
+    {
+        "index": 143,
+        "previous_hash": "00d01a53803acbae92728a6fd6890560f8c702a47e161db3bd2bc877de28cb24",
+        "timestamp": 1770516642.197935,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 109.0ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006bf1f517ffd34b84dcbd00a1f7b93ce2dac390628c5bd3d8b8b9570505bded",
+        "nonce": 188
+    },
+    {
+        "index": 144,
+        "previous_hash": "006bf1f517ffd34b84dcbd00a1f7b93ce2dac390628c5bd3d8b8b9570505bded",
+        "timestamp": 1770516643.0685644,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 79.16ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002d070e5f6c4dd91cabeb7e3bd7b83345d515bc7f1a7c1a6434e4d35b912958",
+        "nonce": 51
+    },
+    {
+        "index": 145,
+        "previous_hash": "002d070e5f6c4dd91cabeb7e3bd7b83345d515bc7f1a7c1a6434e4d35b912958",
+        "timestamp": 1770516657.6973834,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 470.68ms | BTC: $69454.26",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007a6443f9d594825e6550c5084d415806d3969ae8eda383a5b70612a1de7706",
+        "nonce": 114
+    },
+    {
+        "index": 146,
+        "previous_hash": "007a6443f9d594825e6550c5084d415806d3969ae8eda383a5b70612a1de7706",
+        "timestamp": 1770516673.490004,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 745.79ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00de57b3bedd465c03ce0d01a28602d0a05973a6e27bfd27617b52f281b78722",
+        "nonce": 114
+    },
+    {
+        "index": 147,
+        "previous_hash": "00de57b3bedd465c03ce0d01a28602d0a05973a6e27bfd27617b52f281b78722",
+        "timestamp": 1770516688.599819,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 87.23ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f3b9fe43c18476a0d18e5a2ce204953a1e8992232567f24376f597c0c894e2",
+        "nonce": 188
+    },
+    {
+        "index": 148,
+        "previous_hash": "00f3b9fe43c18476a0d18e5a2ce204953a1e8992232567f24376f597c0c894e2",
+        "timestamp": 1770516704.0337052,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 907.41ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0018c1e7fd8e46fb723c69136a3fb75cc320394919480dc9123a16c00c8c6153",
+        "nonce": 37
+    },
+    {
+        "index": 149,
+        "previous_hash": "0018c1e7fd8e46fb723c69136a3fb75cc320394919480dc9123a16c00c8c6153",
+        "timestamp": 1770516719.7651885,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 750.54ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002cf4f566cd28bb3bbaa6097d6aca97e9240f7ba4d69009295fcf525f7d567d",
+        "nonce": 21
+    },
+    {
+        "index": 150,
+        "previous_hash": "002cf4f566cd28bb3bbaa6097d6aca97e9240f7ba4d69009295fcf525f7d567d",
+        "timestamp": 1770516734.1739945,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 115.56ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0099c5db09eac860427cad8b6639220cb2fbde553d5f22897cd80c2e0db48cb7",
+        "nonce": 142
+    },
+    {
+        "index": 151,
+        "previous_hash": "0099c5db09eac860427cad8b6639220cb2fbde553d5f22897cd80c2e0db48cb7",
+        "timestamp": 1770516734.9083796,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 118.27ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e49fa61cb7b4aaed622e737de8778656532db73b959f3de976859da227582a",
+        "nonce": 411
+    },
+    {
+        "index": 152,
+        "previous_hash": "00e49fa61cb7b4aaed622e737de8778656532db73b959f3de976859da227582a",
+        "timestamp": 1770516755.9787548,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin (Binance): HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=BTCUSDT (Caused by NameResolutionError(\"HTTPSConnection(host='api.binance.com', port=443): Failed to resolve 'api.binance.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00865f5d85fc12acc76d23c015429dbd174030242e9feaef561fde81c89b1bde",
+        "nonce": 198
+    },
+    {
+        "index": 153,
+        "previous_hash": "00865f5d85fc12acc76d23c015429dbd174030242e9feaef561fde81c89b1bde",
+        "timestamp": 1770516764.2240486,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00fda5ecbca03b49834cb2d1d9797bad425c2c7e49af623c228e8f1da4f8dafe",
+        "nonce": 318
+    },
+    {
+        "index": 154,
+        "previous_hash": "00fda5ecbca03b49834cb2d1d9797bad425c2c7e49af623c228e8f1da4f8dafe",
+        "timestamp": 1770516771.8453152,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 826.44ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0028dbd5ec6fccc2289fc186168455f14bebb0d7e5b931daa34ab28ee7d5e64c",
+        "nonce": 46
+    },
+    {
+        "index": 155,
+        "previous_hash": "0028dbd5ec6fccc2289fc186168455f14bebb0d7e5b931daa34ab28ee7d5e64c",
+        "timestamp": 1770516786.9655192,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 76.99ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001f98cccc83f89388009d2c10bbe1e3645426e3dbbee48d8386e33109d21d4c",
+        "nonce": 346
+    },
+    {
+        "index": 156,
+        "previous_hash": "001f98cccc83f89388009d2c10bbe1e3645426e3dbbee48d8386e33109d21d4c",
+        "timestamp": 1770516795.1993742,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 946.13ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0093e08750fd124512ce7f64d180f6f0f91bc8ef4cdb94558351b5c7641684d6",
+        "nonce": 23
+    },
+    {
+        "index": 157,
+        "previous_hash": "0093e08750fd124512ce7f64d180f6f0f91bc8ef4cdb94558351b5c7641684d6",
+        "timestamp": 1770516802.3634531,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 364.38ms | BTC: $69430.30",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b89aabba5a4f95b359e336bd78002f3acde557759d15d4db019f44e12c1ef8",
+        "nonce": 162
+    },
+    {
+        "index": 158,
+        "previous_hash": "00b89aabba5a4f95b359e336bd78002f3acde557759d15d4db019f44e12c1ef8",
+        "timestamp": 1770516818.4354124,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1030.94ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00686f748e57c47d741e758ee9267547c40f7e91d8563f4668324b0335ac7323",
+        "nonce": 374
+    },
+    {
+        "index": 159,
+        "previous_hash": "00686f748e57c47d741e758ee9267547c40f7e91d8563f4668324b0335ac7323",
+        "timestamp": 1770516825.3987277,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 174.72ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e195c17f45f46059367e78c7184b22468c60105dfcec8b699f49dc47a3bd3c",
+        "nonce": 218
+    },
+    {
+        "index": 160,
+        "previous_hash": "00e195c17f45f46059367e78c7184b22468c60105dfcec8b699f49dc47a3bd3c",
+        "timestamp": 1770516833.5517225,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 79.38ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009288166920a503590e13e9e2ff545a95a0f2f556dcb07ee88575bd8efe9f81",
+        "nonce": 18
+    },
+    {
+        "index": 161,
+        "previous_hash": "009288166920a503590e13e9e2ff545a95a0f2f556dcb07ee88575bd8efe9f81",
+        "timestamp": 1770516848.9411871,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 357.13ms | BTC: $69414.10",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00809b95c0f9b7377c79bb37b2ea73c186a42dc6722b66d632b6ee65fba2fa13",
+        "nonce": 579
+    },
+    {
+        "index": 162,
+        "previous_hash": "00809b95c0f9b7377c79bb37b2ea73c186a42dc6722b66d632b6ee65fba2fa13",
+        "timestamp": 1770516855.4400353,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00fb0f826bfc5c32902cb04ecae85a3cf406a7a52fdafdd749a7413db20fd915",
+        "nonce": 324
+    },
+    {
+        "index": 163,
+        "previous_hash": "00fb0f826bfc5c32902cb04ecae85a3cf406a7a52fdafdd749a7413db20fd915",
+        "timestamp": 1770516865.2650902,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1274.99ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00fc2f92238b244404c97e873da232f993e8575006f0dc7bb0ae708f752e703e",
+        "nonce": 506
+    },
+    {
+        "index": 164,
+        "previous_hash": "00fc2f92238b244404c97e873da232f993e8575006f0dc7bb0ae708f752e703e",
+        "timestamp": 1770516880.427372,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 120.09ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000e482c64dd1145aec5ffef3a5c6a5a709fb7426e5c6a9667f963dd188edaad",
+        "nonce": 268
+    },
+    {
+        "index": 165,
+        "previous_hash": "000e482c64dd1145aec5ffef3a5c6a5a709fb7426e5c6a9667f963dd188edaad",
+        "timestamp": 1770516886.2579184,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 780.86ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00eea9f94c874e94e41418f4e71cfad3ef4f88f329d834e1d6d8219c9238b28c",
+        "nonce": 560
+    },
+    {
+        "index": 166,
+        "previous_hash": "00eea9f94c874e94e41418f4e71cfad3ef4f88f329d834e1d6d8219c9238b28c",
+        "timestamp": 1770516895.847024,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 381.34ms | BTC: $69404.43",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000490fac0b88517081120ec8c1e431674a4043d6732247fd3ddd1289f22a591",
+        "nonce": 193
+    },
+    {
+        "index": 167,
+        "previous_hash": "000490fac0b88517081120ec8c1e431674a4043d6732247fd3ddd1289f22a591",
+        "timestamp": 1770516912.1438322,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1253.55ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "008c1e0e1605460c472b37fb11acd1979d3810282159d6d026c81e71f769cc54",
+        "nonce": 155
+    },
+    {
+        "index": 168,
+        "previous_hash": "008c1e0e1605460c472b37fb11acd1979d3810282159d6d026c81e71f769cc54",
+        "timestamp": 1770516916.4249425,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 129.57ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00bd5887a443df705f5f8ba32a765e8d954365be42535e66888706d023581bb6",
+        "nonce": 214
+    },
+    {
+        "index": 169,
+        "previous_hash": "00bd5887a443df705f5f8ba32a765e8d954365be42535e66888706d023581bb6",
+        "timestamp": 1770516927.2558823,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 82.34ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "007d984b3d221b0eceeb13fe91f1be730f882fa8971259ac27a4ede8c3f74d0f",
+        "nonce": 488
+    },
+    {
+        "index": 170,
+        "previous_hash": "007d984b3d221b0eceeb13fe91f1be730f882fa8971259ac27a4ede8c3f74d0f",
+        "timestamp": 1770516943.2449074,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 950.68ms | BTC: $69388.02",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00366f7f27478958b2c19157df80e0b5e76f813443ad8966fc42c062a475263c",
+        "nonce": 125
+    },
+    {
+        "index": 171,
+        "previous_hash": "00366f7f27478958b2c19157df80e0b5e76f813443ad8966fc42c062a475263c",
+        "timestamp": 1770516946.4646657,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "008d36f68bd836d8263096d9b7a165550445eff567225f80d88b5280e1840a33",
+        "nonce": 236
+    },
+    {
+        "index": 172,
+        "previous_hash": "008d36f68bd836d8263096d9b7a165550445eff567225f80d88b5280e1840a33",
+        "timestamp": 1770516959.0226886,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 739.02ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006caad825682ecfc436064e181659dcec127357660b84756cc330621c547cd6",
+        "nonce": 106
+    },
+    {
+        "index": 173,
+        "previous_hash": "006caad825682ecfc436064e181659dcec127357660b84756cc330621c547cd6",
+        "timestamp": 1770516975.8747423,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 1821.89ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001e4ab0fd7eb0c41952f9b30d04925a2452c0937fde00ab4998995c83fc3f5b",
+        "nonce": 1465
+    },
+    {
+        "index": 174,
+        "previous_hash": "001e4ab0fd7eb0c41952f9b30d04925a2452c0937fde00ab4998995c83fc3f5b",
+        "timestamp": 1770516979.9484675,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 3443.01ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00175ba37f4d73c736e80619429f305dd6edd10032a2ae214791d92e14f8e583",
+        "nonce": 71
+    },
+    {
+        "index": 175,
+        "previous_hash": "00175ba37f4d73c736e80619429f305dd6edd10032a2ae214791d92e14f8e583",
+        "timestamp": 1770516991.2691524,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 333.63ms | BTC: $69435.98",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d8037097d9b4b898ffc28caf49f750af12dcdaa3161298847a0b9692783439",
+        "nonce": 730
+    },
+    {
+        "index": 176,
+        "previous_hash": "00d8037097d9b4b898ffc28caf49f750af12dcdaa3161298847a0b9692783439",
+        "timestamp": 1770517007.0267267,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 707.62ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00ac5efa39ef8a4a2088c662541efdb2adfa31717bcbde0bb1b1224d18e3efa2",
+        "nonce": 199
+    },
+    {
+        "index": 177,
+        "previous_hash": "00ac5efa39ef8a4a2088c662541efdb2adfa31717bcbde0bb1b1224d18e3efa2",
+        "timestamp": 1770517010.104649,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 128.29ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00eac28b8c2cc0f5957e3848e2ad114e75ece3c941312fdcfc391c3d8329539d",
+        "nonce": 54
+    },
+    {
+        "index": 178,
+        "previous_hash": "00eac28b8c2cc0f5957e3848e2ad114e75ece3c941312fdcfc391c3d8329539d",
+        "timestamp": 1770517022.146404,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 89.54ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c6f38c77671e96f6df021b40df936dc3cc99a722689cc1af271416e91377e0",
+        "nonce": 281
+    },
+    {
+        "index": 179,
+        "previous_hash": "00c6f38c77671e96f6df021b40df936dc3cc99a722689cc1af271416e91377e0",
+        "timestamp": 1770517037.564879,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 385.61ms | BTC: $69440.91",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002737cf9e321d742fb31838d995d09ca6fb9d10183f19b448451638e97dff29",
+        "nonce": 138
+    },
+    {
+        "index": 180,
+        "previous_hash": "002737cf9e321d742fb31838d995d09ca6fb9d10183f19b448451638e97dff29",
+        "timestamp": 1770517040.1318226,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0080786c2c445bf9497f2cb6a7e594354fb7f9152b2ab328f9a23e6cfbf98019",
+        "nonce": 483
+    },
+    {
+        "index": 181,
+        "previous_hash": "0080786c2c445bf9497f2cb6a7e594354fb7f9152b2ab328f9a23e6cfbf98019",
+        "timestamp": 1770517053.3891323,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 782.79ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00375ed4d1c4000dcb2d788b8c759645a8aee08dc0b7ad39870c5694deb6922b",
+        "nonce": 99
+    },
+    {
+        "index": 182,
+        "previous_hash": "00375ed4d1c4000dcb2d788b8c759645a8aee08dc0b7ad39870c5694deb6922b",
+        "timestamp": 1770517068.5554292,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 134.77ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002c3ac76a36ab6c28dc85574981928d7cf357b76a978261cab87c18e7c3be79",
+        "nonce": 113
+    },
+    {
+        "index": 183,
+        "previous_hash": "002c3ac76a36ab6c28dc85574981928d7cf357b76a978261cab87c18e7c3be79",
+        "timestamp": 1770517071.6399114,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1462.58ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00af3d7767b00632c291338d1e7d42d6c8040a3a97ecbed1be0bfbd8a22e07e6",
+        "nonce": 241
+    },
+    {
+        "index": 184,
+        "previous_hash": "00af3d7767b00632c291338d1e7d42d6c8040a3a97ecbed1be0bfbd8a22e07e6",
+        "timestamp": 1770517085.8636527,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 2276.68ms | BTC: $69450.00",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0057a5ab21723e12792e6b34eb98fb9ad113c2a60795b19ee243fb3690124619",
+        "nonce": 152
+    },
+    {
+        "index": 185,
+        "previous_hash": "0057a5ab21723e12792e6b34eb98fb9ad113c2a60795b19ee243fb3690124619",
+        "timestamp": 1770517106.2936494,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 5379.41ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00a9a9fa2f2b6fc0274b88742e4585451c464bd59ae155f14933af7e6b9e0fe0",
+        "nonce": 336
+    },
+    {
+        "index": 186,
+        "previous_hash": "00a9a9fa2f2b6fc0274b88742e4585451c464bd59ae155f14933af7e6b9e0fe0",
+        "timestamp": 1770517124.6628902,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 3329.09ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006345143afdb3f429438a56ce8c20197a0a37c894f6563a250f75f580d4885e",
+        "nonce": 166
+    },
+    {
+        "index": 187,
+        "previous_hash": "006345143afdb3f429438a56ce8c20197a0a37c894f6563a250f75f580d4885e",
+        "timestamp": 1770517135.2134452,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "006b93d853b516c17220ea94fd80ea7c446762a72f17738aa85d3baa23b99d67",
+        "nonce": 33
+    },
+    {
+        "index": 188,
+        "previous_hash": "006b93d853b516c17220ea94fd80ea7c446762a72f17738aa85d3baa23b99d67",
+        "timestamp": 1770517145.802565,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] API Bitcoin (Binance): ONLINE em 6078.11ms | BTC: $69437.73",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00ef51faab74e029203f51a0f7e6a71489ddbec66a6119322b59ebd133548048",
+        "nonce": 178
+    },
+    {
+        "index": 189,
+        "previous_hash": "00ef51faab74e029203f51a0f7e6a71489ddbec66a6119322b59ebd133548048",
+        "timestamp": 1770517161.9810565,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "9ebca1d11a6225c21e2ccd17de0016c72406ce915d45dee6fd15ba90831111642cb0abd226b1af50906a0dd352e129cfe9feb2f07d81dc94770811178ed97ea7",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1138.47ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0098886cecf561ea7231b0c0bfaf26fdb972a4b1dd355c9771533c9e0d1db814",
+        "nonce": 202
+    },
+    {
+        "index": 190,
+        "previous_hash": "0098886cecf561ea7231b0c0bfaf26fdb972a4b1dd355c9771533c9e0d1db814",
+        "timestamp": 1770517166.626654,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1378.47ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0061c080c505a79bfe116366cad1536efede99ad90c73afd9662936368f53512",
+        "nonce": 162
+    },
+    {
+        "index": 191,
+        "previous_hash": "0061c080c505a79bfe116366cad1536efede99ad90c73afd9662936368f53512",
+        "timestamp": 1770517197.7410774,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 1083.94ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b8d5402e3319637f09f2878b56a30fa456fd478a4b3a07f0f6da85d5bfb61c",
+        "nonce": 159
+    },
+    {
+        "index": 192,
+        "previous_hash": "00b8d5402e3319637f09f2878b56a30fa456fd478a4b3a07f0f6da85d5bfb61c",
+        "timestamp": 1770517227.7737827,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0076771d761bd35512adcf10e36477a18d202da9ee582b6783dc78fb127409de",
+        "nonce": 66
+    },
+    {
+        "index": 193,
+        "previous_hash": "0076771d761bd35512adcf10e36477a18d202da9ee582b6783dc78fb127409de",
+        "timestamp": 1770517258.5282416,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 717.22ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0036f8154bb71aa6fe09b7539e93f3412f60ebb0d62875194e81ddd78ec40046",
+        "nonce": 664
+    },
+    {
+        "index": 194,
+        "previous_hash": "0036f8154bb71aa6fe09b7539e93f3412f60ebb0d62875194e81ddd78ec40046",
+        "timestamp": 1770517289.1411064,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 562.42ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f9610caca5d304655b9bc92809724dea15caa37b63f11a089557c33d543d66",
+        "nonce": 664
+    },
+    {
+        "index": 195,
+        "previous_hash": "00f9610caca5d304655b9bc92809724dea15caa37b63f11a089557c33d543d66",
+        "timestamp": 1770517319.2151685,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "005610c045d11d9189bce1480cacc4b3cd5c0a13d7633d3ff5a50cc333898157",
+        "nonce": 165
+    },
+    {
+        "index": 196,
+        "previous_hash": "005610c045d11d9189bce1480cacc4b3cd5c0a13d7633d3ff5a50cc333898157",
+        "timestamp": 1770517350.2445478,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 955.02ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c5cdf9f664eb45c7bfd4bffa769a1ef9f82d290a635f8c7c7f92a8ccd8ee17",
+        "nonce": 155
+    },
+    {
+        "index": 197,
+        "previous_hash": "00c5cdf9f664eb45c7bfd4bffa769a1ef9f82d290a635f8c7c7f92a8ccd8ee17",
+        "timestamp": 1770517382.0323787,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 1752.57ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f342feab133b752c10eb748d2a52fd81de881ed33fdc3c8cb32b98c3eb2798",
+        "nonce": 102
+    },
+    {
+        "index": 198,
+        "previous_hash": "00f342feab133b752c10eb748d2a52fd81de881ed33fdc3c8cb32b98c3eb2798",
+        "timestamp": 1770517412.0713115,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0094651fffac555afafc6a671ab753f472f8c9729ad489a55c7c778f573d33f9",
+        "nonce": 217
+    },
+    {
+        "index": 199,
+        "previous_hash": "0094651fffac555afafc6a671ab753f472f8c9729ad489a55c7c778f573d33f9",
+        "timestamp": 1770517442.7135315,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 606.49ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e8c739b5c17a70928116cc4f17b055e9de9c01f82142940d0d8cc85c416060",
+        "nonce": 87
+    },
+    {
+        "index": 200,
+        "previous_hash": "00e8c739b5c17a70928116cc4f17b055e9de9c01f82142940d0d8cc85c416060",
+        "timestamp": 1770517473.5445209,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 803.83ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001e289f1aeea1d653398789d2e86ef17b9ac86023372660b986163c9f3cd8e0",
+        "nonce": 1196
+    },
+    {
+        "index": 201,
+        "previous_hash": "001e289f1aeea1d653398789d2e86ef17b9ac86023372660b986163c9f3cd8e0",
+        "timestamp": 1770517503.608605,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "003313c3f53ec95dfc5e85b8428a33921ca357e6872aaedebf6ebf7bf9a3ad96",
+        "nonce": 38
+    },
+    {
+        "index": 202,
+        "previous_hash": "003313c3f53ec95dfc5e85b8428a33921ca357e6872aaedebf6ebf7bf9a3ad96",
+        "timestamp": 1770517538.4135127,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 4773.53ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0097b7e49fb37b49abe0e8ad9ac204cd3f7a7066bab32b0a4ffb40f2f5498ba0",
+        "nonce": 62
+    },
+    {
+        "index": 203,
+        "previous_hash": "0097b7e49fb37b49abe0e8ad9ac204cd3f7a7066bab32b0a4ffb40f2f5498ba0",
+        "timestamp": 1770517570.4550788,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 2012.67ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00185f19ce56506a5ceb4371179f280f1548738efe6617e37a813a6ef030378e",
+        "nonce": 95
+    },
+    {
+        "index": 204,
+        "previous_hash": "00185f19ce56506a5ceb4371179f280f1548738efe6617e37a813a6ef030378e",
+        "timestamp": 1770517600.5184772,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00154b94d366cf4d623a682dff5f5d0682f9f2e12542f2ab3b1312126242c7fd",
+        "nonce": 47
+    },
+    {
+        "index": 205,
+        "previous_hash": "00154b94d366cf4d623a682dff5f5d0682f9f2e12542f2ab3b1312126242c7fd",
+        "timestamp": 1770517631.8174796,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1271.48ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00cb7f3c6c468e53c08e4dd9aee5347506a4c634c7d9bf21136f9b3bf9980e49",
+        "nonce": 457
+    },
+    {
+        "index": 206,
+        "previous_hash": "00cb7f3c6c468e53c08e4dd9aee5347506a4c634c7d9bf21136f9b3bf9980e49",
+        "timestamp": 1770517662.0873168,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 234.95ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d3ad376f94d36de66461c6e2c62ae1ae1e6dcb666cd654d770121ece3abf94",
+        "nonce": 16
+    },
+    {
+        "index": 207,
+        "previous_hash": "00d3ad376f94d36de66461c6e2c62ae1ae1e6dcb666cd654d770121ece3abf94",
+        "timestamp": 1770517692.116014,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0021ddfb80e7586318dac66f8fb3c5a4aa82ff4de930c4d20a72d958db79d339",
+        "nonce": 22
+    },
+    {
+        "index": 208,
+        "previous_hash": "0021ddfb80e7586318dac66f8fb3c5a4aa82ff4de930c4d20a72d958db79d339",
+        "timestamp": 1770517722.7923036,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 647.82ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e5f210f8314a096a82e44b776a8b6fa00650d466c1510ef5e3f7a73f3f0bf2",
+        "nonce": 46
+    },
+    {
+        "index": 209,
+        "previous_hash": "00e5f210f8314a096a82e44b776a8b6fa00650d466c1510ef5e3f7a73f3f0bf2",
+        "timestamp": 1770517756.915686,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 4085.44ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f39d4a7d60df5772cc56d6d47eaec1056c840fa2823ec5c9bb8681a2fc37e8",
+        "nonce": 48
+    },
+    {
+        "index": 210,
+        "previous_hash": "00f39d4a7d60df5772cc56d6d47eaec1056c840fa2823ec5c9bb8681a2fc37e8",
+        "timestamp": 1770517786.9450817,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00e2a6a197fbf5966ea00cbf67110477669e1c23c1b301f55fdd683c3c74e105",
+        "nonce": 165
+    },
+    {
+        "index": 211,
+        "previous_hash": "00e2a6a197fbf5966ea00cbf67110477669e1c23c1b301f55fdd683c3c74e105",
+        "timestamp": 1770517818.92976,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1837.8ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00dae442667d5a7c21f64b7c9c0668b535358ffd44ab43e945bfabf2d4afc63d",
+        "nonce": 401
+    },
+    {
+        "index": 212,
+        "previous_hash": "00dae442667d5a7c21f64b7c9c0668b535358ffd44ab43e945bfabf2d4afc63d",
+        "timestamp": 1770517849.1633213,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 163.85ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b08b4df418ba802cd0fee5b0e66488c9cf803c6c9d32ec3994c60310ff77d0",
+        "nonce": 208
+    },
+    {
+        "index": 213,
+        "previous_hash": "00b08b4df418ba802cd0fee5b0e66488c9cf803c6c9d32ec3994c60310ff77d0",
+        "timestamp": 1770517879.2055092,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002658dcf619ed3e9a16d47c23d38b9601dd9c52d743e183e3c64e0d6cdad1c3",
+        "nonce": 358
+    },
+    {
+        "index": 214,
+        "previous_hash": "002658dcf619ed3e9a16d47c23d38b9601dd9c52d743e183e3c64e0d6cdad1c3",
+        "timestamp": 1770517909.9648373,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 677.55ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f2e0a1cdc69658885663c31c0d27965c921585778932f353c2cd0b189914bb",
+        "nonce": 83
+    },
+    {
+        "index": 215,
+        "previous_hash": "00f2e0a1cdc69658885663c31c0d27965c921585778932f353c2cd0b189914bb",
+        "timestamp": 1770517940.216591,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 209.91ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00212684c2490c2a583a9e4b84dfb500ee87bf244b1852a586f5b9c97b0d4341",
+        "nonce": 85
+    },
+    {
+        "index": 216,
+        "previous_hash": "00212684c2490c2a583a9e4b84dfb500ee87bf244b1852a586f5b9c97b0d4341",
+        "timestamp": 1770517975.7719321,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00a9ac698a822b4a591f4af556fdb494982343298cf00939cffab2b5cde5ef22",
+        "nonce": 212
+    },
+    {
+        "index": 217,
+        "previous_hash": "00a9ac698a822b4a591f4af556fdb494982343298cf00939cffab2b5cde5ef22",
+        "timestamp": 1770518006.6281862,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 809.5ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00bad1132c03bf65ddd88b34787e6d5c179058b52ecfa7355f3ecd163053cc9d",
+        "nonce": 403
+    },
+    {
+        "index": 218,
+        "previous_hash": "00bad1132c03bf65ddd88b34787e6d5c179058b52ecfa7355f3ecd163053cc9d",
+        "timestamp": 1770518039.789617,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 3116.95ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "008a307d16bcc59c5af60a2daa6e9a910b7c2d3aaf6a93d934e037411657f7da",
+        "nonce": 43
+    },
+    {
+        "index": 219,
+        "previous_hash": "008a307d16bcc59c5af60a2daa6e9a910b7c2d3aaf6a93d934e037411657f7da",
+        "timestamp": 1770518069.8354533,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b9f938725213e8b35b3b19b793c6d49d825750e9e578e031fa39ccf500e801",
+        "nonce": 1761
+    },
+    {
+        "index": 220,
+        "previous_hash": "00b9f938725213e8b35b3b19b793c6d49d825750e9e578e031fa39ccf500e801",
+        "timestamp": 1770518101.4887626,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1572.51ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0036fd0f9241c134752e9d4187dfa2c1566a41bee8761903910b13e2dee3b491",
+        "nonce": 48
+    },
+    {
+        "index": 221,
+        "previous_hash": "0036fd0f9241c134752e9d4187dfa2c1566a41bee8761903910b13e2dee3b491",
+        "timestamp": 1770518133.0622382,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 1539.48ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002390106e7863a2051432ae313651f02106e324d65f61b992521c4a7f444791",
+        "nonce": 587
+    },
+    {
+        "index": 222,
+        "previous_hash": "002390106e7863a2051432ae313651f02106e324d65f61b992521c4a7f444791",
+        "timestamp": 1770518163.1038637,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00716f9bb164a8295aa43e7bf830ce51f71794ef9d26172ed40e6f5cb7ef8022",
+        "nonce": 223
+    },
+    {
+        "index": 223,
+        "previous_hash": "00716f9bb164a8295aa43e7bf830ce51f71794ef9d26172ed40e6f5cb7ef8022",
+        "timestamp": 1770518193.6103086,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 468.95ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00daa3c7f9a32d8b7561fd5d03fd44e98b822f5ae4de3bd0b9b62109fb3128ec",
+        "nonce": 100
+    },
+    {
+        "index": 224,
+        "previous_hash": "00daa3c7f9a32d8b7561fd5d03fd44e98b822f5ae4de3bd0b9b62109fb3128ec",
+        "timestamp": 1770518224.2710166,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 619.15ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001ffeba6352a7e8bc57dda20bef56981c2db617c5c915cf2d58884d8bd219ae",
+        "nonce": 234
+    },
+    {
+        "index": 225,
+        "previous_hash": "001ffeba6352a7e8bc57dda20bef56981c2db617c5c915cf2d58884d8bd219ae",
+        "timestamp": 1770518254.3137035,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0086b68f15c1c5c467c83390b7c6436c24da6c0e40c72226fb66ddc6adcca4bc",
+        "nonce": 338
+    },
+    {
+        "index": 226,
+        "previous_hash": "0086b68f15c1c5c467c83390b7c6436c24da6c0e40c72226fb66ddc6adcca4bc",
+        "timestamp": 1770518285.050058,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 699.04ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c77c3299c360686d6d3c62cde0c02758fab5a1e358cd15535eb0711902d316",
+        "nonce": 207
+    },
+    {
+        "index": 227,
+        "previous_hash": "00c77c3299c360686d6d3c62cde0c02758fab5a1e358cd15535eb0711902d316",
+        "timestamp": 1770518315.2791278,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 194.61ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00f7ae2572b7c0e317ad7ffa02765d950595fa6e95cb18f2257b57554d8a214a",
+        "nonce": 496
+    },
+    {
+        "index": 228,
+        "previous_hash": "00f7ae2572b7c0e317ad7ffa02765d950595fa6e95cb18f2257b57554d8a214a",
+        "timestamp": 1770518345.3281765,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "003e7b62b342c414ef0a65b4bb8b1d5a83bc155b858bab72cb5ae3e379ec4042",
+        "nonce": 77
+    },
+    {
+        "index": 229,
+        "previous_hash": "003e7b62b342c414ef0a65b4bb8b1d5a83bc155b858bab72cb5ae3e379ec4042",
+        "timestamp": 1770518376.0649374,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 700.97ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d294389a69bd0d7536586dfd48b240735b3ee47e802458e5880b580a6bc87a",
+        "nonce": 68
+    },
+    {
+        "index": 230,
+        "previous_hash": "00d294389a69bd0d7536586dfd48b240735b3ee47e802458e5880b580a6bc87a",
+        "timestamp": 1770518407.1689966,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 1068.99ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00171a3369d6129b4528a03d5731196bf530ee1d514e4d190032b9cedb88b69c",
+        "nonce": 121
+    },
+    {
+        "index": 231,
+        "previous_hash": "00171a3369d6129b4528a03d5731196bf530ee1d514e4d190032b9cedb88b69c",
+        "timestamp": 1770518437.2098417,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00447c1836f1048bc8330166a6bd35e978ab63d08184fdecf40f845d6f003936",
+        "nonce": 34
+    },
+    {
+        "index": 232,
+        "previous_hash": "00447c1836f1048bc8330166a6bd35e978ab63d08184fdecf40f845d6f003936",
+        "timestamp": 1770518467.6363559,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 395.52ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00502cb14f0adc6cf597d939298d95292dc68d58ffd783d21b666913d9ed3ba6",
+        "nonce": 609
+    },
+    {
+        "index": 233,
+        "previous_hash": "00502cb14f0adc6cf597d939298d95292dc68d58ffd783d21b666913d9ed3ba6",
+        "timestamp": 1770518497.8091164,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 120.84ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00d00cf75b0209157059f17a5060d3ca569a8b788c8fe3d413a48285a3b063fb",
+        "nonce": 173
+    },
+    {
+        "index": 234,
+        "previous_hash": "00d00cf75b0209157059f17a5060d3ca569a8b788c8fe3d413a48285a3b063fb",
+        "timestamp": 1770518527.8427978,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00fc0e3647f39d2c5c21b9cb839bba3615c2cfa128b111178c66eb621d7a3829",
+        "nonce": 262
+    },
+    {
+        "index": 235,
+        "previous_hash": "00fc0e3647f39d2c5c21b9cb839bba3615c2cfa128b111178c66eb621d7a3829",
+        "timestamp": 1770518558.3427494,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 464.83ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002e9fc9d67d442d1c572db915d601be773bf96ea142cb6ba7b4c244c84c4668",
+        "nonce": 638
+    },
+    {
+        "index": 236,
+        "previous_hash": "002e9fc9d67d442d1c572db915d601be773bf96ea142cb6ba7b4c244c84c4668",
+        "timestamp": 1770518588.5105999,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 123.23ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c86ac26a0f5b64e9ae592427c890cdac030454159214ceeff4d40d8aa54ab1",
+        "nonce": 271
+    },
+    {
+        "index": 237,
+        "previous_hash": "00c86ac26a0f5b64e9ae592427c890cdac030454159214ceeff4d40d8aa54ab1",
+        "timestamp": 1770518618.6055198,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c718606b11b65ef89803e58f5a89c6267d99f4be2c75cb6692f9b85ff4a059",
+        "nonce": 392
+    },
+    {
+        "index": 238,
+        "previous_hash": "00c718606b11b65ef89803e58f5a89c6267d99f4be2c75cb6692f9b85ff4a059",
+        "timestamp": 1770518649.662488,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 981.33ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b567e1926fdac1560b164124e967e4901ad8f04a136c0d49600acfcddade01",
+        "nonce": 571
+    },
+    {
+        "index": 239,
+        "previous_hash": "00b567e1926fdac1560b164124e967e4901ad8f04a136c0d49600acfcddade01",
+        "timestamp": 1770518681.583508,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 1869.52ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00df6b44421d9429552b6cef2255efb4447447eca84749d38fd39973bfb71d1e",
+        "nonce": 1530
+    },
+    {
+        "index": 240,
+        "previous_hash": "00df6b44421d9429552b6cef2255efb4447447eca84749d38fd39973bfb71d1e",
+        "timestamp": 1770518711.6626217,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "009a93cf7191a3a0657d56d5686e82412a9bcec0b8b606e2541dfa18b4d88ed6",
+        "nonce": 763
+    },
+    {
+        "index": 241,
+        "previous_hash": "009a93cf7191a3a0657d56d5686e82412a9bcec0b8b606e2541dfa18b4d88ed6",
+        "timestamp": 1770518742.1536672,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 429.91ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002be02f29c281cad49b48950a4b1fe0e9c1967ec6b8a1c82486503956655599",
+        "nonce": 322
+    },
+    {
+        "index": 242,
+        "previous_hash": "002be02f29c281cad49b48950a4b1fe0e9c1967ec6b8a1c82486503956655599",
+        "timestamp": 1770518772.4048247,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 209.33ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0074287b80d1a72add34ca8e0b0a500fd81b136cb9fc9baa41b2657a9a28379a",
+        "nonce": 141
+    },
+    {
+        "index": 243,
+        "previous_hash": "0074287b80d1a72add34ca8e0b0a500fd81b136cb9fc9baa41b2657a9a28379a",
+        "timestamp": 1770518802.4540014,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00fd561fe3b3e1fdcff07c33180549b2a9ebd5f31774d47bd846b8d7b8fe1e1d",
+        "nonce": 300
+    },
+    {
+        "index": 244,
+        "previous_hash": "00fd561fe3b3e1fdcff07c33180549b2a9ebd5f31774d47bd846b8d7b8fe1e1d",
+        "timestamp": 1770518835.0813165,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 2567.77ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "002273012df18b289953b09762ebfa07057e59e8a1da12cc2fa28c2245db459f",
+        "nonce": 221
+    },
+    {
+        "index": 245,
+        "previous_hash": "002273012df18b289953b09762ebfa07057e59e8a1da12cc2fa28c2245db459f",
+        "timestamp": 1770518865.532787,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 407.34ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00c250f318cad5e4a0dc75e542bce1beca3017893d4094a892a7e8046e72c5a4",
+        "nonce": 278
+    },
+    {
+        "index": 246,
+        "previous_hash": "00c250f318cad5e4a0dc75e542bce1beca3017893d4094a892a7e8046e72c5a4",
+        "timestamp": 1770518895.6558871,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "001f5c9319e2a2dd626a83e2087d8859b5f9e87aac43f8f761bb913d12056e6d",
+        "nonce": 97
+    },
+    {
+        "index": 247,
+        "previous_hash": "001f5c9319e2a2dd626a83e2087d8859b5f9e87aac43f8f761bb913d12056e6d",
+        "timestamp": 1770518927.364051,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 1637.39ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "000747aa09653dbf05a0cc0890578f04997aa062b26426815c5df1860181ee8f",
+        "nonce": 170
+    },
+    {
+        "index": 248,
+        "previous_hash": "000747aa09653dbf05a0cc0890578f04997aa062b26426815c5df1860181ee8f",
+        "timestamp": 1770518957.5079854,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 94.96ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "003d5438bb2b619d8b031c66535a69b380724d5392aa077b98c189b473a2cbce",
+        "nonce": 8
+    },
+    {
+        "index": 249,
+        "previous_hash": "003d5438bb2b619d8b031c66535a69b380724d5392aa077b98c189b473a2cbce",
+        "timestamp": 1770518987.547619,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT FALHA] API Bitcoin: HTTPSConnectionPool(host='api.coindesk.com', port=443): Max retries exceeded with url: /v1/bpi/currentprice.json (Caused by NameResolutionError(\"HTTPSConnection(host='api.coindesk.com', port=443): Failed to resolve 'api.coindesk.com' ([Errno 7] No address associated with hostname)\"))",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00aee49f6d75ae7f730e94c2ff8e8833dec726ab357114bd4e2b1ae07b6c4f94",
+        "nonce": 15
+    },
+    {
+        "index": 250,
+        "previous_hash": "00aee49f6d75ae7f730e94c2ff8e8833dec726ab357114bd4e2b1ae07b6c4f94",
+        "timestamp": 1770519021.1342914,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] Google BR: ONLINE em 3554.56ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "00b11a2dc3c43314ec99d0f7281c342d8f77d2e851ea167119487ed3443f042f",
+        "nonce": 1
+    },
+    {
+        "index": 251,
+        "previous_hash": "00b11a2dc3c43314ec99d0f7281c342d8f77d2e851ea167119487ed3443f042f",
+        "timestamp": 1770519051.2901657,
+        "data": [
+            {
+                "sender": "Service_Payment",
+                "recipient": "823a5d80fe62b130a070d4cb1e5fd6f112b70359d077de9274775a799a8485b6fc46c6d780a450d6ba58aa3e6a7d99c9d05db937b625f15d379c2222f8d1f38b",
+                "amount": 50,
+                "data": "[SCOUT REPORT] GitHub Status: ONLINE em 122.9ms",
+                "signature": null
+            }
+        ],
+        "validator_id": "Genesis",
+        "hash": "0010736d77503f486dc737e0b05338877d7ad6ac61804cb4a22bddffc5be5238",
+        "nonce": 1357
+    },
+    {
+        "index": 252,
+        "timestamp": "2026-02-08 01:17:55.249718",
+        "dados": "\u0018",
+        "previous_hash": "a5219ddcfda7b53da82641ff543f98d70db070f882cdfb2fb8a05eadc59068c1",
+        "criador": "Aderlan_A15_Mesquita"
+    },
+    {
+        "index": 253,
+        "timestamp": "2026-02-08 01:21:51.207436",
+        "dados": "Protocolo Fantasma Ativado - N\u00f3 Seguro V1",
+        "previous_hash": "254dd9a695c17db22d62e3b8efe6155030f9c0f54399da0b4e8d8ab7b1512dae",
+        "criador": "0xNODE_eb2633c9"
+    }
+]

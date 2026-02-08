@@ -1,0 +1,5 @@
+.ssh/
+api_key.txt
+ARQUIVO_MORTO/
+.cargo/
+__pycache__/
